@@ -4,7 +4,7 @@
 
 _This is made just for fun ._
 
-![](images/imageslider)
+![](images/imageslider.gif)
 
 
 
